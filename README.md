@@ -1,6 +1,8 @@
+![MERN stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I'm Tanvir
 #### MERN stack developer
-![MERN stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hello, This is Tanvir, a MERN Stack web developer, I have good knowledge about front-end and backend web development. I am strategic, goal-oriented, and capable of solving problems in the real world. I love to learn new skills and technologies.
 
