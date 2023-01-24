@@ -1,4 +1,4 @@
-![MERN stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MERN stack developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/kgz5D1z/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png))
 
 ## Hi there 👋, I'm Tanvir
 ### MERN stack developer
