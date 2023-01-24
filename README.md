@@ -1,11 +1,11 @@
 ![MERN stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### Hi there 👋, I'm Tanvir
-#### MERN stack developer
+##### MERN stack developer
 
 
 Hello, This is Tanvir, a MERN Stack web developer, I have good knowledge about front-end and backend web development. I am strategic, goal-oriented, and capable of solving problems in the real world. I love to learn new skills and technologies.
-
+##### Skills and tools
  <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
         </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
