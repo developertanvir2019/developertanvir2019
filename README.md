@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/kgz5D1z/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)
+![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAFYm8pKgZ0/UgSzdHLmbMBO2c36k5D64Q/view?utm_content=DAFYm8pKgZ0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Hi there 👋, I'm Tanvir
 ### MERN stack developer
