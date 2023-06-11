@@ -51,7 +51,7 @@ developing improved problem-solving approaches for continuously expanding my ski
 </br>
 </br>
 
-<img width="550px" alt="Tanvir Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&show_icons=true"/>
+<!-- <img width="550px" alt="Tanvir Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&show_icons=true"/> -->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=developertanvir2019&card_width=550)](https://github.com/developertanvir2019/developertanvir)
 
