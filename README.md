@@ -3,8 +3,10 @@
 ## Hi! I am [Tanvir Ahmed][website]
 ### Full-Stack Web developer
 
+I am a Full stack web developer with 1.5 years of experience in working with complex web services. I have effectively
+utilized my extensive technological knowledge to ensure the delivery of high-quality products. I am passionate about
+developing improved problem-solving approaches for continuously expanding my skill set by learning new technologies.
 
-Hello, This is Tanvir, a MERN Stack web developer, I have good knowledge about front-end and backend web development. I am strategic, goal-oriented, and capable of solving problems in the real world. I love to learn new skills and technologies.
 ### Skills and tools
  <p align="left">
  <a href="https://www.mongodb.com/" target="_blank"
