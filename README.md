@@ -60,15 +60,8 @@ developing improved problem-solving approaches for continuously expanding my ski
 ![GitHub Streak](https://streak-stats.demolab.com?user=developertanvir2019&count_private=true&theme=midnight-purple)
 </div>
 
-<!-- <img width="550px" alt="Tanvir Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&show_icons=true"/> -->
-
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=developertanvir2019&card_width=550)](https://github.com/developertanvir2019/developertanvir)
 
-
-
-![GitHub metrics](https://metrics.lecoq.io/developertanvir2019)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=developertanvir2019)  
 <!-- ![Profile views](https://gpvc.arturio.dev/developertanvir2019) -->
 
 
