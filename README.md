@@ -14,9 +14,7 @@ developing improved problem-solving approaches for continuously expanding my ski
 [![Follow on Instagram](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=833AB4&logo=instagram&logoColor=ffffff)](https://www.instagram.com/md_tanvir2002/)
 [![Follow on StackOvwerflow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=F48024&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/19963768)
 
-
 <br />
-
 ### Skills and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
