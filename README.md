@@ -57,7 +57,7 @@ developing improved problem-solving approaches for continuously expanding my ski
   </div>
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=developertanvir2019&count_private=true&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=developertanvir2019)](https://git.io/streak-stats)
 </div>
 
 
