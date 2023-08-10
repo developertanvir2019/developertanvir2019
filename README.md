@@ -55,9 +55,9 @@ developing improved problem-solving approaches for continuously expanding my ski
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&show_icons=true&theme=midnight-purple">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertanvir2019&layout=compact&show_icons=true&theme=midnight-purple" >
   </div>
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=developertanvir2019)](https://git.io/streak-stats)
-</div>
+
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=developertanvir2019&theme=algolia)
+
 
 
 
