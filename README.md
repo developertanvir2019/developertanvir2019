@@ -17,47 +17,36 @@ developing improved problem-solving approaches for continuously expanding my ski
 
 ### Skills and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://i.ibb.co/XLLvh3f/js.png" />
+<img align="left" alt="React" width="35px" src="https://i.ibb.co/jD7j5Gv/react.png" />
+<img align="left" alt="Next.js" width="35px" src="https://pawelrybka.com/next.png" />
+<img align="left" alt="Redux" width="35px" src="https://i.ibb.co/bby50xs/redux.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
+<img align="left" alt="Sass" width="35px" src="https://i.ibb.co/v3Sy8YW/scss.png" />
+<img align="left" alt="Node.js" width="35px" src="https://i.ibb.co/GF9MYQn/node.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co/g7xQSGY/css3.png" />
+<img align="left" alt="Express.js" width="35px" src="https://i.ibb.co/nrbPzJp/express.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://i.ibb.co/v3Sy8YW/scss.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://i.ibb.co/f4pzGjH/mongodb.png" />
+<img align="left" alt="Tailwind css" width="44px" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws" />
+<img align="left" alt="bootstrap" width="35px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
+<img align="left" alt="Material-ui" width="35px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co/XLLvh3f/js.png" />
+<img align="left" alt="HTML5" width="35px" src="https://i.ibb.co/VSmHRkv/html.png" />
 
-<img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
-
-<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
-
-<img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" />
-
-<img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" />
-
-<img align="left" alt="Redux" width="26px" src="https://i.ibb.co/bby50xs/redux.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
-
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/7zs2TGW/git.png" />
+<img align="left" alt="CSS3" width="35px" src="https://i.ibb.co/g7xQSGY/css3.png" />
 
 
+<img align="start" alt="Git" width="35px" src="https://i.ibb.co/7zs2TGW/git.png" />
 
 </br>
 </br>
 </br>
 </br>
-</br>
-
 
    ![GitHub Streak](https://streak-stats.demolab.com/?user=developertanvir2019&theme=algolia)
 
- <div >
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&show_icons=true&theme=algolia">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertanvir2019&layout=compact&show_icons=true&theme=algolia" >
-  </div>
+
 
 
 
