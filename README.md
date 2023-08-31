@@ -42,12 +42,17 @@ developing improved problem-solving approaches for continuously expanding my ski
 </br>
 </br>
 </br>
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developertanvir2019&theme=algolia&hide_border=false" alt="Streak">
+</div>
 </br>
-
-   ![GitHub Streak](https://streak-stats.demolab.com/?user=developertanvir2019&theme=algolia)
-
-
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=developertanvir2019&theme=algolia&show_icons=true&hide_border=false&count_private=true" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertanvir2019&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+</div>
 
 
 
